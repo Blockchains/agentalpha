@@ -6,7 +6,7 @@ seeds = false
 skip-lint = false
 
 [programs.devnet]
-agentalpha = "6sDwzatESkmF5T3K3rfNta4DCRgH8z9ZdYoPXeMtKRmP"
+agentalpha = "5LQg57Lt8WaSZi8jtu771B9MVfKQ8muqcXXucTLM7WY7"
 
 [registry]
 url = "https://api.apr.dev"

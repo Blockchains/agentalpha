@@ -2,7 +2,7 @@ use anchor_lang::prelude::*;
 use sha2::{Sha256, Digest};
 
 // Deployed program ID
-declare_id!("6sDwzatESkmF5T3K3rfNta4DCRgH8z9ZdYoPXeMtKRmP");
+declare_id!("5LQg57Lt8WaSZi8jtu771B9MVfKQ8muqcXXucTLM7WY7");
 
 #[program]
 pub mod agentalpha {
